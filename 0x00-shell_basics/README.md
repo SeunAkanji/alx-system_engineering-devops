@@ -1,1 +1,1 @@
-Displayin it all
+Script that prints absolute path name
