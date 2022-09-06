@@ -1,2 +1,3 @@
 #!/bin/bash
-cut -c 1 paste -c -d ' '
+echo -ne '\n'
+echo -ne '\n'
